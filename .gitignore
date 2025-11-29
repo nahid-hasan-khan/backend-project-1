@@ -4,3 +4,4 @@ dist/
 build/
 *.txt
 *.json
+  node_modules/
