@@ -1,0 +1,6 @@
+npm-debug.log
+yarn-error.log
+dist/
+build/
+*.txt
+*.json
